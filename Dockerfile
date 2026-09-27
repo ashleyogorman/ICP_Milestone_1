@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /
+WORKDIR /icp-milestone-1
 
 COPY README.md .
 COPY requirements-icp.txt .
