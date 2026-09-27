@@ -1,2 +1,7 @@
 # ICP_Milestone_1
-set up multiple pipeline configurations, where in each pipeline configuration provides some result to compare each configurations for ID card OCR
+Goal: set up multiple pipeline configurations, where in each pipeline configuration provides some result to compare each configurations for ID card OCR
+
+Setting up in Chameleon Environment
+1. Log in to Chameleon's hosted JupyterHub.
+2. Upload setup/setup_environment.ipynb from this repo into own Chameleon Jupyter environment (or clone this repo directly from a terminal inside that environment).
+3. Open setup/setup_environment.ipynb and run the cells in order
